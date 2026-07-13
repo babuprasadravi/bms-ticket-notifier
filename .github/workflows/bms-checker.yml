@@ -2,14 +2,19 @@ name: BMS Ticket Checker
 
 on:
   schedule:
-    # Every 30 minutes
-    - cron: '*/30 * * * *'
-  workflow_dispatch:  # Manual trigger button
+    # Start a runner every 5 minutes
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: bms-ticket-checker
+  cancel-in-progress: false
 
 jobs:
   check-tickets:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 7
+
     permissions:
       contents: write
 
@@ -25,7 +30,7 @@ jobs:
       - name: Install dependencies
         run: uv sync --frozen
 
-      - name: Run checker
+      - name: Run checker every 30 seconds
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           RESEND_TO_EMAIL: ${{ secrets.RESEND_TO_EMAIL }}
@@ -34,11 +39,30 @@ jobs:
           BMS_DATES: ${{ vars.BMS_DATES }}
           BMS_THEATRE: ${{ vars.BMS_THEATRE }}
           BMS_TIME: ${{ vars.BMS_TIME }}
-        run: uv run main.py
+        run: |
+          for i in {1..9}; do
+            echo ""
+            echo "========================================"
+            echo "BMS CHECK $i/9"
+            echo "Time: $(date)"
+            echo "========================================"
+
+            uv run main.py
+
+            if [ "$i" -lt 9 ]; then
+              echo "Sleeping for 30 seconds..."
+              sleep 30
+            fi
+          done
 
       - name: Commit updated state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add bms_state.json
-          git diff --cached --quiet || (git commit -m "chore: update bms_state.json [skip ci]" && git push)
+
+          git diff --cached --quiet || (
+            git commit -m "chore: update bms_state.json [skip ci]" &&
+            git push
+          )
