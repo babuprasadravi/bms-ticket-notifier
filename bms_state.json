@@ -592,6 +592,22 @@
       "price": "59.43",
       "status": "2"
     },
+    "INTO|87705|20260716|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:50 PM",
+      "date": "20260716",
+      "cat": "CLUB",
+      "price": "202.49",
+      "status": "3"
+    },
+    "INTO|87705|20260716|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:50 PM",
+      "date": "20260716",
+      "cat": "EXECUTIVE",
+      "price": "59.43",
+      "status": "1"
+    },
     "PABC|20145|20260716|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
       "time": "03:40 PM",
