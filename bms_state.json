@@ -1,36 +1,36 @@
 {
   "shows": {
-    "PVHR|39077|20260713|PRIME": {
+    "PVHR|39080|20260714|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "10:30 PM",
-      "date": "20260713",
+      "time": "03:50 PM",
+      "date": "20260714",
       "cat": "PRIME",
       "price": "202.49",
       "status": "3"
     },
-    "PVHR|39077|20260713|CLASSIC": {
+    "PVHR|39080|20260714|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "10:30 PM",
-      "date": "20260713",
+      "time": "03:50 PM",
+      "date": "20260714",
       "cat": "CLASSIC",
       "price": "59.43",
-      "status": "0"
+      "status": "1"
     },
-    "PVSR|25749|20260713|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
-      "date": "20260713",
-      "cat": "ELITE",
+    "PVHR|39082|20260714|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "10:30 PM",
+      "date": "20260714",
+      "cat": "PRIME",
       "price": "202.49",
       "status": "3"
     },
-    "PVSR|25749|20260713|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
-      "date": "20260713",
-      "cat": "BUDGET",
+    "PVHR|39082|20260714|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "10:30 PM",
+      "date": "20260714",
+      "cat": "CLASSIC",
       "price": "59.43",
-      "status": "3"
+      "status": "1"
     },
     "PVPZ|35298|20260714|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -64,38 +64,6 @@
       "price": "59.43",
       "status": "3"
     },
-    "PVHR|39080|20260714|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "03:50 PM",
-      "date": "20260714",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVHR|39080|20260714|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "03:50 PM",
-      "date": "20260714",
-      "cat": "CLASSIC",
-      "price": "59.43",
-      "status": "1"
-    },
-    "PVHR|39082|20260714|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "10:30 PM",
-      "date": "20260714",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVHR|39082|20260714|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "10:30 PM",
-      "date": "20260714",
-      "cat": "CLASSIC",
-      "price": "59.43",
-      "status": "1"
-    },
     "PVSR|25797|20260714|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
       "time": "10:35 PM",
@@ -107,38 +75,6 @@
     "PVSR|25797|20260714|BUDGET": {
       "venue": "PVR: Sathyam, Royapettah",
       "time": "10:35 PM",
-      "date": "20260714",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "3"
-    },
-    "PVES|31449|20260714|ELITE": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "06:10 PM",
-      "date": "20260714",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVES|31449|20260714|BUDGET": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "06:10 PM",
-      "date": "20260714",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "2"
-    },
-    "PBRM|22160|20260714|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "06:55 PM",
-      "date": "20260714",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PBRM|22160|20260714|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "06:55 PM",
       "date": "20260714",
       "cat": "BUDGET",
       "price": "59.43",
@@ -176,6 +112,22 @@
       "price": "59.43",
       "status": "0"
     },
+    "PVES|31449|20260714|ELITE": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "06:10 PM",
+      "date": "20260714",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVES|31449|20260714|BUDGET": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "06:10 PM",
+      "date": "20260714",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "2"
+    },
     "PGRA|21016|20260714|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
       "time": "07:00 PM",
@@ -191,6 +143,22 @@
       "cat": "CLASSIC",
       "price": "59.43",
       "status": "0"
+    },
+    "PBRM|22160|20260714|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "06:55 PM",
+      "date": "20260714",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PBRM|22160|20260714|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "06:55 PM",
+      "date": "20260714",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
     },
     "INPR|63134|20260714|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -240,38 +208,6 @@
       "price": "59.43",
       "status": "1"
     },
-    "PVPZ|35302|20260715|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:40 PM",
-      "date": "20260715",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVPZ|35302|20260715|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:40 PM",
-      "date": "20260715",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "3"
-    },
-    "PVPZ|35304|20260715|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "07:20 PM",
-      "date": "20260715",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVPZ|35304|20260715|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "07:20 PM",
-      "date": "20260715",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "3"
-    },
     "PVHR|39085|20260715|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
       "time": "03:50 PM",
@@ -304,6 +240,38 @@
       "price": "59.43",
       "status": "1"
     },
+    "PVPZ|35302|20260715|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "12:40 PM",
+      "date": "20260715",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVPZ|35302|20260715|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "12:40 PM",
+      "date": "20260715",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVPZ|35304|20260715|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "07:20 PM",
+      "date": "20260715",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVPZ|35304|20260715|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "07:20 PM",
+      "date": "20260715",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
     "PVSR|25801|20260715|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
       "time": "10:35 PM",
@@ -319,54 +287,6 @@
       "cat": "BUDGET",
       "price": "59.43",
       "status": "3"
-    },
-    "PVES|31453|20260715|ELITE": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "06:10 PM",
-      "date": "20260715",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVES|31453|20260715|BUDGET": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "06:10 PM",
-      "date": "20260715",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "2"
-    },
-    "ACVM|54082|20260715|DIAMOND": {
-      "venue": "AGS Cinemas: Villivakkam",
-      "time": "12:55 PM",
-      "date": "20260715",
-      "cat": "DIAMOND",
-      "price": "200.00",
-      "status": "3"
-    },
-    "ACVM|54082|20260715|PEARL": {
-      "venue": "AGS Cinemas: Villivakkam",
-      "time": "12:55 PM",
-      "date": "20260715",
-      "cat": "PEARL",
-      "price": "59.00",
-      "status": "0"
-    },
-    "PBRM|22164|20260715|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "06:55 PM",
-      "date": "20260715",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PBRM|22164|20260715|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "06:55 PM",
-      "date": "20260715",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "0"
     },
     "PCAN|41345|20260715|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -384,6 +304,22 @@
       "price": "59.43",
       "status": "3"
     },
+    "ACVM|54082|20260715|DIAMOND": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "12:55 PM",
+      "date": "20260715",
+      "cat": "DIAMOND",
+      "price": "200.00",
+      "status": "3"
+    },
+    "ACVM|54082|20260715|PEARL": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "12:55 PM",
+      "date": "20260715",
+      "cat": "PEARL",
+      "price": "59.00",
+      "status": "0"
+    },
     "PGMV|20551|20260715|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
       "time": "03:50 PM",
@@ -400,6 +336,22 @@
       "price": "59.43",
       "status": "0"
     },
+    "PVES|31453|20260715|ELITE": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "06:10 PM",
+      "date": "20260715",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVES|31453|20260715|BUDGET": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "06:10 PM",
+      "date": "20260715",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "2"
+    },
     "PGRA|21021|20260715|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
       "time": "07:00 PM",
@@ -413,6 +365,22 @@
       "time": "07:00 PM",
       "date": "20260715",
       "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "0"
+    },
+    "PBRM|22164|20260715|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "06:55 PM",
+      "date": "20260715",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PBRM|22164|20260715|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "06:55 PM",
+      "date": "20260715",
+      "cat": "BUDGET",
       "price": "59.43",
       "status": "0"
     },
@@ -480,6 +448,38 @@
       "price": "59.43",
       "status": "3"
     },
+    "PVPZ|35346|20260716|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "12:40 PM",
+      "date": "20260716",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVPZ|35346|20260716|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "12:40 PM",
+      "date": "20260716",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVPZ|35348|20260716|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "07:20 PM",
+      "date": "20260716",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVPZ|35348|20260716|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "07:20 PM",
+      "date": "20260716",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
     "PVSR|25831|20260716|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
       "time": "10:35 PM",
@@ -491,38 +491,6 @@
     "PVSR|25831|20260716|BUDGET": {
       "venue": "PVR: Sathyam, Royapettah",
       "time": "10:35 PM",
-      "date": "20260716",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "3"
-    },
-    "PVES|31535|20260716|ELITE": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "06:10 PM",
-      "date": "20260716",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVES|31535|20260716|BUDGET": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "06:10 PM",
-      "date": "20260716",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "0"
-    },
-    "PBRM|22196|20260716|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "06:55 PM",
-      "date": "20260716",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PBRM|22196|20260716|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "06:55 PM",
       "date": "20260716",
       "cat": "BUDGET",
       "price": "59.43",
@@ -560,6 +528,22 @@
       "price": "59.43",
       "status": "3"
     },
+    "PVES|31535|20260716|ELITE": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "06:10 PM",
+      "date": "20260716",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVES|31535|20260716|BUDGET": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "06:10 PM",
+      "date": "20260716",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "0"
+    },
     "PGRA|21047|20260716|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
       "time": "07:00 PM",
@@ -575,6 +559,22 @@
       "cat": "CLASSIC",
       "price": "59.43",
       "status": "0"
+    },
+    "PBRM|22196|20260716|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "06:55 PM",
+      "date": "20260716",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PBRM|22196|20260716|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "06:55 PM",
+      "date": "20260716",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
     },
     "INPR|63184|20260716|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -594,12 +594,12 @@
     }
   },
   "dates": {
-    "20260713": "BOOKABLE",
-    "20260714": "AVAILABLE",
+    "20260714": "BOOKABLE",
     "20260715": "AVAILABLE",
     "20260716": "AVAILABLE",
     "20260717": "NOT_OPEN",
     "20260718": "NOT_OPEN",
-    "20260719": "NOT_OPEN"
+    "20260719": "NOT_OPEN",
+    "20260720": "NOT_OPEN"
   }
 }
