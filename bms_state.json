@@ -32,22 +32,6 @@
       "price": "59.43",
       "status": "1"
     },
-    "PCAN|41340|20260714|PRIME": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "03:50 PM",
-      "date": "20260714",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PCAN|41340|20260714|CLASSIC": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "03:50 PM",
-      "date": "20260714",
-      "cat": "CLASSIC",
-      "price": "59.43",
-      "status": "3"
-    },
     "PVSR|25797|20260714|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
       "time": "10:35 PM",
@@ -63,38 +47,6 @@
       "cat": "BUDGET",
       "price": "59.43",
       "status": "3"
-    },
-    "INTO|87645|20260714|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:50 PM",
-      "date": "20260714",
-      "cat": "CLUB",
-      "price": "202.49",
-      "status": "3"
-    },
-    "INTO|87645|20260714|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:50 PM",
-      "date": "20260714",
-      "cat": "EXECUTIVE",
-      "price": "59.43",
-      "status": "1"
-    },
-    "PGMV|20546|20260714|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "03:50 PM",
-      "date": "20260714",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PGMV|20546|20260714|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "03:50 PM",
-      "date": "20260714",
-      "cat": "CLASSIC",
-      "price": "59.43",
-      "status": "0"
     },
     "PVES|31449|20260714|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -558,7 +510,7 @@
       "date": "20260716",
       "cat": "BUDGET",
       "price": "59.43",
-      "status": "3"
+      "status": "0"
     },
     "INPR|63184|20260716|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
