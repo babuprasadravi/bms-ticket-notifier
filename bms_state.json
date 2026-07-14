@@ -1,21 +1,5 @@
 {
   "shows": {
-    "PVSR|25797|20260714|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
-      "date": "20260714",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVSR|25797|20260714|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
-      "date": "20260714",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "3"
-    },
     "PVHR|39085|20260715|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
       "time": "03:50 PM",
@@ -408,6 +392,7 @@
     "20260717": "NOT_OPEN",
     "20260718": "NOT_OPEN",
     "20260719": "NOT_OPEN",
-    "20260720": "NOT_OPEN"
+    "20260720": "NOT_OPEN",
+    "20260721": "NOT_OPEN"
   }
 }
