@@ -78,7 +78,7 @@
       "date": "20260714",
       "cat": "EXECUTIVE",
       "price": "59.43",
-      "status": "0"
+      "status": "1"
     },
     "PGMV|20546|20260714|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -111,22 +111,6 @@
       "cat": "BUDGET",
       "price": "59.43",
       "status": "2"
-    },
-    "PABC|20096|20260714|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "03:40 PM",
-      "date": "20260714",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PABC|20096|20260714|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "03:40 PM",
-      "date": "20260714",
-      "cat": "CLASSIC",
-      "price": "59.43",
-      "status": "0"
     },
     "PGRA|21016|20260714|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
