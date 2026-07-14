@@ -1,21 +1,5 @@
 {
   "shows": {
-    "PVPZ|35298|20260714|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:40 PM",
-      "date": "20260714",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVPZ|35298|20260714|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:40 PM",
-      "date": "20260714",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "2"
-    },
     "PVPZ|35300|20260714|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
       "time": "07:20 PM",
@@ -30,23 +14,7 @@
       "date": "20260714",
       "cat": "BUDGET",
       "price": "59.43",
-      "status": "3"
-    },
-    "PVHR|39080|20260714|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "03:50 PM",
-      "date": "20260714",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVHR|39080|20260714|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "03:50 PM",
-      "date": "20260714",
-      "cat": "CLASSIC",
-      "price": "59.43",
-      "status": "1"
+      "status": "2"
     },
     "PVHR|39082|20260714|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -158,7 +126,7 @@
       "date": "20260714",
       "cat": "CLASSIC",
       "price": "59.43",
-      "status": "1"
+      "status": "0"
     },
     "PGRA|21016|20260714|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -272,6 +240,22 @@
       "price": "59.43",
       "status": "1"
     },
+    "ACVM|54082|20260715|DIAMOND": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "12:55 PM",
+      "date": "20260715",
+      "cat": "DIAMOND",
+      "price": "200.00",
+      "status": "3"
+    },
+    "ACVM|54082|20260715|PEARL": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "12:55 PM",
+      "date": "20260715",
+      "cat": "PEARL",
+      "price": "59.00",
+      "status": "0"
+    },
     "PCAN|41345|20260715|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
       "time": "03:50 PM",
@@ -303,22 +287,6 @@
       "cat": "BUDGET",
       "price": "59.43",
       "status": "3"
-    },
-    "ACVM|54082|20260715|DIAMOND": {
-      "venue": "AGS Cinemas: Villivakkam",
-      "time": "12:55 PM",
-      "date": "20260715",
-      "cat": "DIAMOND",
-      "price": "200.00",
-      "status": "3"
-    },
-    "ACVM|54082|20260715|PEARL": {
-      "venue": "AGS Cinemas: Villivakkam",
-      "time": "12:55 PM",
-      "date": "20260715",
-      "cat": "PEARL",
-      "price": "59.00",
-      "status": "0"
     },
     "INTO|87650|20260715|CLUB": {
       "venue": "INOX: The Marina Mall, OMR",
