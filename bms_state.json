@@ -80,6 +80,22 @@
       "price": "59.43",
       "status": "3"
     },
+    "PVSR|25797|20260714|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:35 PM",
+      "date": "20260714",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVSR|25797|20260714|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:35 PM",
+      "date": "20260714",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
     "INTO|87645|20260714|CLUB": {
       "venue": "INOX: The Marina Mall, OMR",
       "time": "03:50 PM",
@@ -269,6 +285,22 @@
       "time": "03:50 PM",
       "date": "20260715",
       "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVSR|25801|20260715|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:35 PM",
+      "date": "20260715",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVSR|25801|20260715|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:35 PM",
+      "date": "20260715",
+      "cat": "BUDGET",
       "price": "59.43",
       "status": "3"
     },
@@ -464,6 +496,22 @@
       "price": "59.43",
       "status": "3"
     },
+    "PVSR|25831|20260716|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:35 PM",
+      "date": "20260716",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVSR|25831|20260716|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:35 PM",
+      "date": "20260716",
+      "cat": "BUDGET",
+      "price": "59.43",
+      "status": "3"
+    },
     "INTO|87705|20260716|CLUB": {
       "venue": "INOX: The Marina Mall, OMR",
       "time": "03:50 PM",
@@ -575,22 +623,6 @@
       "cat": "BUDGET",
       "price": "59.43",
       "status": "2"
-    },
-    "PVSR|25797|20260714|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
-      "date": "20260714",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVSR|25797|20260714|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
-      "date": "20260714",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "3"
     }
   },
   "dates": {
