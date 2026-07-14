@@ -80,21 +80,21 @@
       "price": "59.43",
       "status": "3"
     },
-    "PVSR|25797|20260714|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
+    "INTO|87645|20260714|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:50 PM",
       "date": "20260714",
-      "cat": "ELITE",
+      "cat": "CLUB",
       "price": "202.49",
       "status": "3"
     },
-    "PVSR|25797|20260714|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
+    "INTO|87645|20260714|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:50 PM",
       "date": "20260714",
-      "cat": "BUDGET",
+      "cat": "EXECUTIVE",
       "price": "59.43",
-      "status": "3"
+      "status": "0"
     },
     "PGMV|20546|20260714|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -127,6 +127,22 @@
       "cat": "BUDGET",
       "price": "59.43",
       "status": "2"
+    },
+    "PABC|20096|20260714|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "03:40 PM",
+      "date": "20260714",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PABC|20096|20260714|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "03:40 PM",
+      "date": "20260714",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "1"
     },
     "PGRA|21016|20260714|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -175,38 +191,6 @@
       "cat": "BUDGET",
       "price": "59.43",
       "status": "2"
-    },
-    "INTO|87645|20260714|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:50 PM",
-      "date": "20260714",
-      "cat": "CLUB",
-      "price": "202.49",
-      "status": "3"
-    },
-    "INTO|87645|20260714|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:50 PM",
-      "date": "20260714",
-      "cat": "EXECUTIVE",
-      "price": "59.43",
-      "status": "0"
-    },
-    "PABC|20096|20260714|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "03:40 PM",
-      "date": "20260714",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PABC|20096|20260714|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "03:40 PM",
-      "date": "20260714",
-      "cat": "CLASSIC",
-      "price": "59.43",
-      "status": "1"
     },
     "PVPZ|35302|20260715|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -288,22 +272,6 @@
       "price": "59.43",
       "status": "3"
     },
-    "PVSR|25801|20260715|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
-      "date": "20260715",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVSR|25801|20260715|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
-      "date": "20260715",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "3"
-    },
     "ACVM|54082|20260715|DIAMOND": {
       "venue": "AGS Cinemas: Villivakkam",
       "time": "12:55 PM",
@@ -319,6 +287,22 @@
       "cat": "PEARL",
       "price": "59.00",
       "status": "0"
+    },
+    "INTO|87650|20260715|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:50 PM",
+      "date": "20260715",
+      "cat": "CLUB",
+      "price": "202.49",
+      "status": "3"
+    },
+    "INTO|87650|20260715|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:50 PM",
+      "date": "20260715",
+      "cat": "EXECUTIVE",
+      "price": "59.43",
+      "status": "3"
     },
     "PGMV|20551|20260715|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -352,6 +336,22 @@
       "price": "59.43",
       "status": "2"
     },
+    "PABC|20101|20260715|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "03:40 PM",
+      "date": "20260715",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PABC|20101|20260715|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "03:40 PM",
+      "date": "20260715",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "1"
+    },
     "PGRA|21021|20260715|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
       "time": "07:00 PM",
@@ -383,38 +383,6 @@
       "cat": "BUDGET",
       "price": "59.43",
       "status": "0"
-    },
-    "INTO|87650|20260715|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:50 PM",
-      "date": "20260715",
-      "cat": "CLUB",
-      "price": "202.49",
-      "status": "3"
-    },
-    "INTO|87650|20260715|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:50 PM",
-      "date": "20260715",
-      "cat": "EXECUTIVE",
-      "price": "59.43",
-      "status": "3"
-    },
-    "PABC|20101|20260715|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "03:40 PM",
-      "date": "20260715",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PABC|20101|20260715|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "03:40 PM",
-      "date": "20260715",
-      "cat": "CLASSIC",
-      "price": "59.43",
-      "status": "1"
     },
     "PVPZ|35346|20260716|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -496,21 +464,21 @@
       "price": "59.43",
       "status": "3"
     },
-    "PVSR|25831|20260716|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
+    "INTO|87705|20260716|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:50 PM",
       "date": "20260716",
-      "cat": "ELITE",
+      "cat": "CLUB",
       "price": "202.49",
       "status": "3"
     },
-    "PVSR|25831|20260716|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
+    "INTO|87705|20260716|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:50 PM",
       "date": "20260716",
-      "cat": "BUDGET",
+      "cat": "EXECUTIVE",
       "price": "59.43",
-      "status": "3"
+      "status": "1"
     },
     "PGMV|20592|20260716|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -543,6 +511,22 @@
       "cat": "BUDGET",
       "price": "59.43",
       "status": "0"
+    },
+    "PABC|20145|20260716|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "03:40 PM",
+      "date": "20260716",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PABC|20145|20260716|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "03:40 PM",
+      "date": "20260716",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
     },
     "PGRA|21047|20260716|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -592,35 +576,19 @@
       "price": "59.43",
       "status": "2"
     },
-    "INTO|87705|20260716|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:50 PM",
-      "date": "20260716",
-      "cat": "CLUB",
+    "PVSR|25797|20260714|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:35 PM",
+      "date": "20260714",
+      "cat": "ELITE",
       "price": "202.49",
       "status": "3"
     },
-    "INTO|87705|20260716|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:50 PM",
-      "date": "20260716",
-      "cat": "EXECUTIVE",
-      "price": "59.43",
-      "status": "1"
-    },
-    "PABC|20145|20260716|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "03:40 PM",
-      "date": "20260716",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PABC|20145|20260716|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "03:40 PM",
-      "date": "20260716",
-      "cat": "CLASSIC",
+    "PVSR|25797|20260714|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:35 PM",
+      "date": "20260714",
+      "cat": "BUDGET",
       "price": "59.43",
       "status": "3"
     }
