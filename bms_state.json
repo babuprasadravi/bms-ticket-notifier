@@ -1,37 +1,5 @@
 {
   "shows": {
-    "PVHR|39085|20260715|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "03:50 PM",
-      "date": "20260715",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVHR|39085|20260715|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "03:50 PM",
-      "date": "20260715",
-      "cat": "CLASSIC",
-      "price": "59.43",
-      "status": "1"
-    },
-    "PVHR|39087|20260715|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "10:30 PM",
-      "date": "20260715",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVHR|39087|20260715|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "10:30 PM",
-      "date": "20260715",
-      "cat": "CLASSIC",
-      "price": "59.43",
-      "status": "1"
-    },
     "PVPZ|35302|20260715|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
       "time": "12:40 PM",
@@ -64,6 +32,38 @@
       "price": "59.43",
       "status": "3"
     },
+    "PVHR|39085|20260715|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "03:50 PM",
+      "date": "20260715",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVHR|39085|20260715|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "03:50 PM",
+      "date": "20260715",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "1"
+    },
+    "PVHR|39087|20260715|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "10:30 PM",
+      "date": "20260715",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVHR|39087|20260715|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "10:30 PM",
+      "date": "20260715",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "1"
+    },
     "ACVM|54082|20260715|DIAMOND": {
       "venue": "AGS Cinemas: Villivakkam",
       "time": "12:55 PM",
@@ -80,22 +80,6 @@
       "price": "59.00",
       "status": "0"
     },
-    "PVSR|25801|20260715|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
-      "date": "20260715",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVSR|25801|20260715|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
-      "date": "20260715",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "3"
-    },
     "PCAN|41345|20260715|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
       "time": "03:50 PM",
@@ -109,6 +93,22 @@
       "time": "03:50 PM",
       "date": "20260715",
       "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVSR|25801|20260715|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:35 PM",
+      "date": "20260715",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVSR|25801|20260715|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:35 PM",
+      "date": "20260715",
+      "cat": "BUDGET",
       "price": "59.43",
       "status": "3"
     },
@@ -192,38 +192,6 @@
       "price": "59.43",
       "status": "0"
     },
-    "PVHR|39145|20260716|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "03:50 PM",
-      "date": "20260716",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVHR|39145|20260716|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "03:50 PM",
-      "date": "20260716",
-      "cat": "CLASSIC",
-      "price": "59.43",
-      "status": "3"
-    },
-    "PVHR|39147|20260716|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "10:30 PM",
-      "date": "20260716",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVHR|39147|20260716|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "10:30 PM",
-      "date": "20260716",
-      "cat": "CLASSIC",
-      "price": "59.43",
-      "status": "3"
-    },
     "PVPZ|35346|20260716|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
       "time": "12:40 PM",
@@ -256,19 +224,35 @@
       "price": "59.43",
       "status": "3"
     },
-    "PVSR|25831|20260716|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
+    "PVHR|39145|20260716|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "03:50 PM",
       "date": "20260716",
-      "cat": "ELITE",
+      "cat": "PRIME",
       "price": "202.49",
       "status": "3"
     },
-    "PVSR|25831|20260716|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
+    "PVHR|39145|20260716|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "03:50 PM",
       "date": "20260716",
-      "cat": "BUDGET",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVHR|39147|20260716|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "10:30 PM",
+      "date": "20260716",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVHR|39147|20260716|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "10:30 PM",
+      "date": "20260716",
+      "cat": "CLASSIC",
       "price": "59.43",
       "status": "3"
     },
@@ -285,6 +269,22 @@
       "time": "03:50 PM",
       "date": "20260716",
       "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
+    },
+    "PVSR|25831|20260716|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:35 PM",
+      "date": "20260716",
+      "cat": "ELITE",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PVSR|25831|20260716|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "10:35 PM",
+      "date": "20260716",
+      "cat": "BUDGET",
       "price": "59.43",
       "status": "3"
     },
