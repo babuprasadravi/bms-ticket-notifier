@@ -14,7 +14,7 @@
       "date": "20260715",
       "cat": "BUDGET",
       "price": "59.43",
-      "status": "0"
+      "status": "3"
     },
     "PVHR|39087|20260715|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -62,7 +62,7 @@
       "date": "20260715",
       "cat": "BUDGET",
       "price": "59.43",
-      "status": "1"
+      "status": "0"
     },
     "PGRA|21021|20260715|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -192,22 +192,6 @@
       "price": "59.43",
       "status": "1"
     },
-    "PGMV|20592|20260716|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "03:50 PM",
-      "date": "20260716",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PGMV|20592|20260716|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "03:50 PM",
-      "date": "20260716",
-      "cat": "CLASSIC",
-      "price": "59.43",
-      "status": "3"
-    },
     "PVES|31535|20260716|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
       "time": "06:10 PM",
@@ -271,6 +255,22 @@
       "cat": "BUDGET",
       "price": "59.43",
       "status": "2"
+    },
+    "PGMV|20592|20260716|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "03:50 PM",
+      "date": "20260716",
+      "cat": "PRIME",
+      "price": "202.49",
+      "status": "3"
+    },
+    "PGMV|20592|20260716|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "03:50 PM",
+      "date": "20260716",
+      "cat": "CLASSIC",
+      "price": "59.43",
+      "status": "3"
     }
   },
   "dates": {
