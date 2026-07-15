@@ -1,21 +1,5 @@
 {
   "shows": {
-    "PVPZ|35302|20260715|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:40 PM",
-      "date": "20260715",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVPZ|35302|20260715|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:40 PM",
-      "date": "20260715",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "3"
-    },
     "PVPZ|35304|20260715|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
       "time": "07:20 PM",
@@ -63,22 +47,6 @@
       "cat": "CLASSIC",
       "price": "59.43",
       "status": "1"
-    },
-    "ACVM|54082|20260715|DIAMOND": {
-      "venue": "AGS Cinemas: Villivakkam",
-      "time": "12:55 PM",
-      "date": "20260715",
-      "cat": "DIAMOND",
-      "price": "200.00",
-      "status": "3"
-    },
-    "ACVM|54082|20260715|PEARL": {
-      "venue": "AGS Cinemas: Villivakkam",
-      "time": "12:55 PM",
-      "date": "20260715",
-      "cat": "PEARL",
-      "price": "59.00",
-      "status": "0"
     },
     "PCAN|41345|20260715|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -158,7 +126,7 @@
       "date": "20260715",
       "cat": "BUDGET",
       "price": "59.43",
-      "status": "2"
+      "status": "1"
     },
     "PABC|20101|20260715|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
