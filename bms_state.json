@@ -16,22 +16,6 @@
       "price": "59.43",
       "status": "3"
     },
-    "PCAN|41464|20260716|PRIME": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "03:50 PM",
-      "date": "20260716",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PCAN|41464|20260716|CLASSIC": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "03:50 PM",
-      "date": "20260716",
-      "cat": "CLASSIC",
-      "price": "59.43",
-      "status": "3"
-    },
     "PVPZ|35348|20260716|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
       "time": "07:20 PM",
@@ -80,38 +64,6 @@
       "price": "59.43",
       "status": "3"
     },
-    "INTO|87705|20260716|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:50 PM",
-      "date": "20260716",
-      "cat": "CLUB",
-      "price": "202.49",
-      "status": "3"
-    },
-    "INTO|87705|20260716|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:50 PM",
-      "date": "20260716",
-      "cat": "EXECUTIVE",
-      "price": "59.43",
-      "status": "1"
-    },
-    "PGMV|20592|20260716|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "03:50 PM",
-      "date": "20260716",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PGMV|20592|20260716|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "03:50 PM",
-      "date": "20260716",
-      "cat": "CLASSIC",
-      "price": "59.43",
-      "status": "3"
-    },
     "PVES|31535|20260716|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
       "time": "06:10 PM",
@@ -125,22 +77,6 @@
       "time": "06:10 PM",
       "date": "20260716",
       "cat": "BUDGET",
-      "price": "59.43",
-      "status": "0"
-    },
-    "PABC|20145|20260716|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "03:40 PM",
-      "date": "20260716",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PABC|20145|20260716|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "03:40 PM",
-      "date": "20260716",
-      "cat": "CLASSIC",
       "price": "59.43",
       "status": "0"
     },
