@@ -30,7 +30,7 @@
       "date": "20260716",
       "cat": "BUDGET",
       "price": "59.43",
-      "status": "3"
+      "status": "2"
     },
     "INPR|63184|20260716|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -46,7 +46,7 @@
       "date": "20260716",
       "cat": "BUDGET",
       "price": "59.43",
-      "status": "2"
+      "status": "3"
     },
     "PVSR|25831|20260716|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -63,22 +63,6 @@
       "cat": "BUDGET",
       "price": "59.43",
       "status": "3"
-    },
-    "PVES|31535|20260716|ELITE": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "06:10 PM",
-      "date": "20260716",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVES|31535|20260716|BUDGET": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "06:10 PM",
-      "date": "20260716",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "0"
     },
     "PGRA|21047|20260716|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
