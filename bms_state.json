@@ -1,53 +1,5 @@
 {
   "shows": {
-    "PVHR|39147|20260716|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "10:30 PM",
-      "date": "20260716",
-      "cat": "PRIME",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVHR|39147|20260716|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "10:30 PM",
-      "date": "20260716",
-      "cat": "CLASSIC",
-      "price": "59.43",
-      "status": "3"
-    },
-    "PVPZ|35348|20260716|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "07:20 PM",
-      "date": "20260716",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "PVPZ|35348|20260716|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "07:20 PM",
-      "date": "20260716",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "2"
-    },
-    "INPR|63184|20260716|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "06:50 PM",
-      "date": "20260716",
-      "cat": "ELITE",
-      "price": "202.49",
-      "status": "3"
-    },
-    "INPR|63184|20260716|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "06:50 PM",
-      "date": "20260716",
-      "cat": "BUDGET",
-      "price": "59.43",
-      "status": "3"
-    },
     "PVSR|25831|20260716|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
       "time": "10:35 PM",
@@ -64,17 +16,17 @@
       "price": "59.43",
       "status": "3"
     },
-    "PGRA|21047|20260716|PRIME": {
-      "venue": "PVR: Grand Galada, Pallavaram",
-      "time": "07:00 PM",
+    "PVHR|39147|20260716|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "10:30 PM",
       "date": "20260716",
       "cat": "PRIME",
       "price": "202.49",
       "status": "3"
     },
-    "PGRA|21047|20260716|CLASSIC": {
-      "venue": "PVR: Grand Galada, Pallavaram",
-      "time": "07:00 PM",
+    "PVHR|39147|20260716|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "10:30 PM",
       "date": "20260716",
       "cat": "CLASSIC",
       "price": "59.43",
